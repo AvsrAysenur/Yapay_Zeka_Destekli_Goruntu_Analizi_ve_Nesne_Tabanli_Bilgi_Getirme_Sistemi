@@ -1,0 +1,10 @@
+torch
+open_clip_torch
+opencv-python
+Pillow
+numpy
+beautifulsoup4
+requests
+duckduckgo-search
+nltk
+scikit-learn
