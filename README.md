@@ -11,7 +11,7 @@ Kullanıcının verdiği bir görüntüdeki ön plandaki nesneyi tespit eder, ne
 ## Klasör Yapısı
 
 notebooks/ -> Colab notebook'ları
-weights/ -> linear_head_weight.pth, class_names.json
+weights/ -> linear_head_weights.pth, class_names.json
 report/ -> Proje raporu (PDF)
 
 ## Notebook'lar
