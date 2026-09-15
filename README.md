@@ -1,0 +1,1 @@
+# Yapay_Zeka_Destekli_Goruntu_Analizi_ve_Nesne_Tabanli_Bilgi_Getirme_Sistemi
